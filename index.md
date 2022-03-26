@@ -1,11 +1,16 @@
 # Pet Adoption Center
 ## Who We Are
-### Team Leader: Dante Hart
-### Team Member: Garret Parker
-### Team Member: Ruiqi Zhao
-### Team Member: Yihan Zhang
-### Team Member: Claire Shi
-### Team Member: Zane Pitzer
+Team Leader: Dante Hart
+
+Team Member: Garret Parker
+
+Team Member: Ruiqi Zhao
+
+Team Member: Yihan Zhang
+
+Team Member: Claire Shi
+
+Team Member: Zane Pitzer
 ## We are team STAY_Negative! 
 
 # Our Vision
