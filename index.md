@@ -1,4 +1,5 @@
-# Who We Are
+# Pet Adoption Center
+## Who We Are
 ### Team Leader: Dante Hart
 ### Team Member: Garret Parker
 ### Team Member: Ruiqi Zhao
