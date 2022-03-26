@@ -1,36 +1,17 @@
-## Pet Adoption Clinic
+# Who We Are
+### Team Leader: Dante Hart
+### Team Member: Garret Parker
+### Team Member: Ruiqi Zhao
+### Team Member: Yihan Zhang
+### Team Member: Claire Shi
+### Team Member: Zane Pitzer
+## We are team STAY_Negative! 
 
-You can use the [editor on GitHub](https://github.com/KillerRaptor247/STAY_Negative/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Our Vision
+This application will be a pet adoption clinic application that will function as software for day-to-day activities required for a pet adoption center. A detailed explanation of our vision can be found [here](https://github.com/KillerRaptor247/STAY_Negative/blob/main/Iteration1_2/%5BProject%20Vision%20Re-Edit%5D.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Updated Iteration 1
+Our Renewed Iteration 1 project folder can be found [here](https://github.com/KillerRaptor247/STAY_Negative/tree/main/Iteration1_2)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KillerRaptor247/STAY_Negative/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Iteration 2
+Our Iteration 2 Project folder submission can be found (Dummy Link Non-Functioning)[here]
