@@ -36,7 +36,9 @@ public class LoginForm extends JFrame implements ActionListener {
 	            g.drawImage(img, 0, 0, null);
 	         }
 	      });
-	
+		 
+		ImageIcon img = new ImageIcon("dog-32-32.png");
+		this.setIconImage(img.getImage());
 		
 		// create welcomeLabel
 		welcomeLabel = new JLabel();
