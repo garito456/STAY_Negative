@@ -35,6 +35,7 @@ public class LoginChoose extends JFrame implements ActionListener {
         employeeButton.addActionListener(this);
         
         pack();
+        setLocationRelativeTo(null);
         setVisible(true);
     }
 

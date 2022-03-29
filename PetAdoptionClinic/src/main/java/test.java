@@ -7,6 +7,8 @@ import javax.swing.*;
  */
 public class test {
     public static void main(String[] args) {
+    	
+    	
         try {
             // create instance of the LoginForm
 //            LoginForm form = new LoginForm();

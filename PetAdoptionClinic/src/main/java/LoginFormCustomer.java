@@ -106,7 +106,9 @@ public class LoginFormCustomer extends JFrame implements ActionListener {
         setTitle("Login Form");
 
         pack();
-        setSize(300, 200);
+        setSize(310, 200);
+        setLocationRelativeTo(null);
+        setResizable(false);
         setVisible(true);
 
     }
@@ -117,7 +119,9 @@ public class LoginFormCustomer extends JFrame implements ActionListener {
         // and check if authentic
         // but for now simple implementation
         if (e.getSource().equals(signInButton)) {
-            System.out.println("SUCCESS OPEN THE MAIN MENU");
+        	HomePage form = new HomePage();
+        	form.createAndShowGUI();
+            this.dispose();
         } else if (e.getSource().equals(failButton)) {
             System.out.println("WRONG PASSWORD INPUT: SYSTEM FAULT");
         } else {
