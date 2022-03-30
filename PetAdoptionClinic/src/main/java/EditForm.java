@@ -1,5 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class EditForm {
     public void createAndShowGui() {
@@ -77,6 +79,21 @@ public class EditForm {
         JPanel panelForButton = new JPanel();
         JButton save = new JButton("Save");
         JButton cancel = new JButton("Cancel");
+
+        save.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                frame.dispose();
+                // TODO: wait for implement
+            }
+        });
+
+        cancel.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                frame.dispose();
+            }
+        });
 
         panelForButton.add(cancel);
         panelForButton.add(save);
