@@ -38,7 +38,8 @@ public class HomePage extends JFrame implements ActionListener{
 	JButton displayButton;
 	
 	public void createAndShowGUI() {
-		
+
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		this.setContentPane(new JPanel() {
             @Override
             public void paintComponent(Graphics g) {
@@ -73,6 +74,16 @@ public class HomePage extends JFrame implements ActionListener{
 		CreateEmpItem = new JMenuItem("Create Employee");
 		CreateCusItem = new JMenuItem("Create Customer");
 		CreatePetItem = new JMenuItem("Create Pet");
+
+		// Create Pet Form Call
+		CreatePetItem.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				CreatePetForm editForm = new CreatePetForm();
+				editForm.createAndShowGui();
+				// TODO: wait to get data to database
+			}
+		});
 		
 		createMenu.add(CreateEmpItem);
 		createMenu.add(CreateCusItem);
