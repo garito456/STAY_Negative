@@ -2,12 +2,13 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.WindowEvent;
 
-public class EditForm {
+public class CreatePetForm {
     public void createAndShowGui() {
         JFrame frame = new JFrame("Edit Form");
         frame.setLocationRelativeTo(null);
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.dispatchEvent(new WindowEvent(frame, WindowEvent.WINDOW_CLOSING));
 
         JPanel panelForAll = new JPanel(new BorderLayout());
         JPanel panelForForm = new JPanel(new SpringLayout());
